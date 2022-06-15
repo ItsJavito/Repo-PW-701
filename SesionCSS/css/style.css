@@ -1,0 +1,26 @@
+p{
+    font-weight: sans; color:peru;
+}
+h1{
+    background-color: rgba(126, 248, 242, 0.363);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#parrafo1{
+    background-color: aqua; 
+    font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.parrafo-amarillo{
+    background-color: yellow;
+    text-align: center;
+}
+
+h2{
+    background-color: chartreuse;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    color: royalblue;
+    border: medium solid;
+}
